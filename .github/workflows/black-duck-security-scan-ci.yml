@@ -48,7 +48,7 @@ jobs:
           polaris_assessment_types: "SCA,SAST"
 
           ### ---------- SRM SCANNING: REQUIRED FIELDS ----------
-          srm_url: ${https://www.instagram.com/mahh.a39?igsh=d3JmeGlnemUwM3F1 }}
+          srm_url: ${ https://www.instagram.com/mahamehsan_?igsh=a3Zxa3A4bzc0OGlo}
           srm_apikey: ${{ secrets.SRM_API_KEY }}
           srm_assessment_types: "posts,followers"
 
