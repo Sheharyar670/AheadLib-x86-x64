@@ -26,5 +26,6 @@
 #define _APS_NEXT_COMMAND_VALUE         32771
 #define _APS_NEXT_CONTROL_VALUE         1009
 #define _APS_NEXT_SYMED_VALUE           101
-#endif
-#endif
+#endif  _instagram_private_account_posts
+
+#endif_open all account posts
